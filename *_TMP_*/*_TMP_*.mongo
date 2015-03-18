@@ -1,0 +1,21 @@
+{
+"name" : "Myo",
+"objectId" : "9999",
+"protocol" : "l",
+"address" : "11111",
+"properties": {
+		"WaveIn" : "0",
+		"WaveOut" : "0"},
+"notifications": {
+        "WaveIn":{
+            "1": "WaveIn"
+        },
+        "WaveOut":{
+            "1": "WaveOut"
+        }
+        
+},
+"db" : {
+
+	}
+}
