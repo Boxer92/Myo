@@ -4,14 +4,22 @@
 "protocol" : "l",
 "address" : "11111",
 "properties": {
-		"WaveIn" : "0",
-		"WaveOut" : "0"},
+		"wavein" : "0",
+		"waveout" : "0",
+		"fist": "0",
+		"fingerspread": "0"},
 "notifications": {
-        "WaveIn":{
-            "1": "WaveIn"
+        "wavein":{
+            "1": "Wave In"
         },
-        "WaveOut":{
-            "1": "WaveOut"
+        "waveout":{
+            "1": "Wave Out"
+        },
+        "fist":{
+           "1": "Fist"
+        },
+        "fingerspread":{
+           "1": "Fingers Spread"
         }
         
 },
